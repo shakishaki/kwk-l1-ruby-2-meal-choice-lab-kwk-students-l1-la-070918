@@ -11,12 +11,11 @@ end
 breakfast
 
 def lunch(food = "macoroni")
-  puts "Lunch is the best time for #{food}"
+  puts "Lunch is the best time for #{food}."
 end
 lunch
 def dinner(food = "pasta")
-  puts "Dinner is the best time for #{food}"
-
+  puts "Dinner is the best time for #{food}."
 dinner
 
 # Call the methods with puts and your own arguments here. Like this:
